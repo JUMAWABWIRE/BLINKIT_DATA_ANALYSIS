@@ -24,7 +24,8 @@ Sales based on Outlet Location ( Tier1, Tier2 and Tier 3).
 
 ##  Dashboard Preview
 
-<img width="1189" height="789" alt="image" src="https://github.com/user-attachments/assets/df71af97-79ee-4c33-81aa-4b5b91c4d28d" />
+<img width="989" height="690" alt="image" src="https://github.com/user-attachments/assets/e13235f9-8c39-41ea-ae50-214d425a3dd8" />
+
 
 ## Files Included
 
